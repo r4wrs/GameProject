@@ -1,2 +1,2 @@
 # hunt
- Hunting Game
+Poster ve GDD pdfleri de bulunmaktadır.
